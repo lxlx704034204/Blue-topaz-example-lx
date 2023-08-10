@@ -1,6 +1,4 @@
 .idea
-/.obsidian/*
-/.obsidian/app.json
+.obsidian
 .mobile
-/.mobile/plugins/*
-/.mobile/themes/*
+/60-Canvas/Home_middle.canvas
