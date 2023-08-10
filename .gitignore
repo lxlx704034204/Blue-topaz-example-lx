@@ -1,3 +1,6 @@
 .idea
 /.obsidian/*
 /.obsidian/app.json
+.mobile
+/.mobile/plugins/*
+/.mobile/themes/*
