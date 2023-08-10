@@ -336,3 +336,9 @@
 .mobile/app.json
 .mobile/.diary-stats
 .obsidian/workspace.json
+#
+.idea
+#.obsidian/*.json
+#/.obsidian/
+#/.obsidian/plugins/
+/.obsidian/plugins/home-tab/data.json
